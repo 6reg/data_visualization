@@ -1,4 +1,4 @@
-# visualize.py
+# Visualize
 
 Visualize is a Python script for reading data from a file and visualizing it as strips of color. For example, the image below shows the rate of global illiteracy from 1986 - 2016, where red is high and green is low.
 

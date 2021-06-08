@@ -5,9 +5,9 @@ Visualize is a Python script for reading data from a file and visualizing it as 
 ![Global Iliteracy 1986 - 2016](/iliteracy_visual.png)
 ![Global Iliteracy visual](iliteracy_data.png)
 
-## Installation
+## Requirments
 
-This program uses the Python Library [Pillow](https://pillow.readthedocs.io/en/stable/installation.html).
+This program uses the python libray [Pillow](https://pillow.readthedocs.io/en/stable/installation.html).
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 
 ```bash
